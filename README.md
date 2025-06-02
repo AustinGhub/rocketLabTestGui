@@ -24,6 +24,6 @@ What the Buttons do:
   5. Clear Plot by choosing the tab on the right side
 
 
-#Video to refer to usage (this is before adding the clear button)
+# Video to refer to usage (this is before adding the clear button)
 https://www.youtube.com/watch?v=QJUDEmM5dZI
 
