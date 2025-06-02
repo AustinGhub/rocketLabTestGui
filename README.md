@@ -9,4 +9,4 @@ Steps to run:
 
 
 What the Buttons do: 
-  ![image](https://github.com/user-attachments/assets/c47599b5-516d-4d9b-b3f6-38813ee2c9ab)
+  ![image](https://github.com/user-attachments/assets/3cd6878a-4db2-4025-88b9-19f32609585d)
